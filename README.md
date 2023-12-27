@@ -1,16 +1,3 @@
-# crud
+# CRUD App by Siddhant Bisht
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This CRUD (Create, Read, Update, Delete) app is a simple note-taking application built with Flutter and integrated with Firebase's Cloud Firestore for data storage. Its functionality revolves around the management of textual notes, allowing users to create, edit, and delete their notes. The home screen displays a list of notes retrieved from the Firestore database, with each note represented as a ListTile. Users can interact with each note using the provided buttons—edit (settings) and delete—facilitating a seamless and intuitive user experience.
